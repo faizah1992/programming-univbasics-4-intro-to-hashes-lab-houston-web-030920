@@ -20,6 +20,7 @@ return my_hash_creator
 end
 
 def read_from_hash(hash, key)
+  hash= {key:"1"}
 
 end
 
